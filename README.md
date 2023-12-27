@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidRT2
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning How to Build proper Reast-API
+- 🌱 I’m currently learning How to Build proper Rest-API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
